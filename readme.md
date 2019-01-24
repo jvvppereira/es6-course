@@ -1,0 +1,1 @@
+To run this app is necessary instal yarn and run command yarn build on main repository 
